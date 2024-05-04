@@ -1,9 +1,8 @@
 /***
- * e-mail : rachelsysteme@gmail.com
+ * e-mail : openprogramming23@gmail.com
  * gitHub : https://github.com/RS-malik-el
- * Donation : paypal.me/RachelSysteme
  * 
- * @Autheur: RACHEL SYSTEME
+ * @Auteur: Exaucé KIMBEMBE / @OpenProgramming
  * DATE : 22/06/2022
  * 
  * @tester sur la carte arduino uno et méga
